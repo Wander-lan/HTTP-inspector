@@ -1,5 +1,6 @@
 # Trabalho-TR2
 Trabalho de Teleinformática e redes 2
+
 Alunos - Wanderlan Alves e Miguel Freitas
 
 Para executar o programa é necessário mover todos os arquivos presentes nas pastas "lib", "src" e "qt" para a mesma pasta do "Makefile", 
