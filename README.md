@@ -1,5 +1,5 @@
 # Trabalho-TR2
-Trabalho de Teleinformática e redes 2
+Trabalho de Teleinformática e redes 2 - UnB
 
 Alunos - Wanderlan Alves e Miguel Barreto
 
