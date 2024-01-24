@@ -1,7 +1,5 @@
-# Trabalho-TR2
+# Inspetor HTTP baseado em server proxy com interface gráfica
 Trabalho de Teleinformática e redes 2 - UnB
-
-Alunos - Wanderlan Alves e Miguel Barreto
 
 Para executar o programa é necessário mover todos os arquivos presentes nas pastas "lib", "src" e "qt" para a mesma pasta do "Makefile", 
 abrir o terminal dentro desta pasta e digitar "make". Será gerado um arquivo executável "aracne". Então basta digitar 
